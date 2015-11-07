@@ -30,3 +30,12 @@ span{
   font-style: italic;
   font-weight: bold;
 }
+@media screen and (min-width:320px)
+
+{
+#three
+    {
+        background-color: white;
+        font-size: 25px;
+    }
+}
